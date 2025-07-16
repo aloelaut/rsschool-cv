@@ -1,1 +1,1 @@
-https://aloelaut.github.io/rsschool-cv/cv
+https://aloelaut.github.io/rsschool-cv/
